@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.transparent {
+  background: rgba(255, 255, 255, 0.486);
+  border-radius: 30px;
+}

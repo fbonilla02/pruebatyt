@@ -1,14 +1,15 @@
+import { Navbar } from "./components/Navbar";
+import { Hero } from "./sections/Hero";
+import { Nosotros } from "./sections/Nosotros";
 
-
-function App() {
-
-
+const App = () => {
   return (
+    <>
+      <Navbar />
+      <Hero />
+      <Nosotros />
+    </>
+  );
+};
 
-    <div>
-      <h1 className="text-3xl">Hola</h1>
-    </div>
-  )
-}
-
-export default App
+export default App;
