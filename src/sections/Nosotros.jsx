@@ -7,7 +7,6 @@ export const Nosotros = () => {
         NOSOTROS
       </h2>
       <p className="px-10 md:px-20 text-pretty py-10 md:text-3xl">
-        {" "}
         Un copy cercano como hablandole a un amigo. Lorem ipsum dolor sit amet,
         consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
         laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim
