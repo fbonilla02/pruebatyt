@@ -1,8 +1,15 @@
-# React + Vite
+## Correr en dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Clonar el repositorio
+2. Instalar dependecias `npm install`
+3. Correr el proyecto `npm run dev`
 
-Currently, two official plugins are available:
+# Tambien esta desplegado en vercel:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://pruebatyt.vercel.app/
+
+## Cosas que hice
+
+- cree una carpeta de secciones donde esta todo las secciones del index
+- Tambien cree una carpeta llamada componentes donde se puede que esten la mayoria de componentes reutilizables
+- Cree una carpeta hooks donde hice las peticiones
