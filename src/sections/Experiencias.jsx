@@ -29,7 +29,7 @@ export const Experiencias = () => {
         </div>
       </section>
       {customExp.map((custom) => (
-        <section className="py-10">
+        <section key={custom.id} className="py-10">
           <h2 className="text-center md:text-4xl text-2xl font-bold md:tracking-[15px] tracking-[10px] text-[#cf9a46]">
             {custom.title}
           </h2>
