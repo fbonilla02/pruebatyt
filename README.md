@@ -4,10 +4,6 @@
 2. Instalar dependecias `npm install`
 3. Correr el proyecto `npm run dev`
 
-# Tambien esta desplegado en vercel:
-
-https://pruebatyt.vercel.app/
-
 ## Cosas que hice
 
 - cree una carpeta de secciones donde esta todo las secciones del index
