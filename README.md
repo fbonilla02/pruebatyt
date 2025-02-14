@@ -4,8 +4,8 @@
 2. Instalar dependecias `npm install`
 3. Correr el proyecto `npm run dev`
 
-## Cosas que hice
+## Estructura del proyecto
 
-- cree una carpeta de secciones donde esta todo las secciones del index
-- Tambien cree una carpeta llamada componentes donde se puede que esten la mayoria de componentes reutilizables
+- cree una carpeta de secciones alli se encuentan las secciones de la app
+- Tambien cree una carpeta llamada componentes donde estan la mayoria de componentes reutilizables
 - Cree una carpeta hooks donde hice las peticiones
